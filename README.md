@@ -29,8 +29,8 @@ UpSight uses AI to automate the job screening process, helping you:
 
 ## Installation
 
-1. Install from [Chrome Web Store](#)
-2. Create an account at [upsight.work](#)
+1. Install from [Chrome Web Store](https://chromewebstore.google.com/detail/upsight/dcbldfhnicafidejoapcklieemnonnpm)
+2. Create an account at [upsight.work](https://upsight.work/)
 3. Sync your Upwork profile
 4. Start analyzing jobs!
 
